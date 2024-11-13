@@ -4,7 +4,7 @@
 
 ##
 
-<a href="https://github.com/Ale-klv/github-readme-stats">
+<a href="https://github.com/Alex-klv/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Alex-klv&theme=holi&show_icons=true" />
 </a>
 <a href="https://github.com/Alex-klv/convoychat">
