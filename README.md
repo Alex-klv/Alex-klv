@@ -1,6 +1,6 @@
 ## Ola! seja bem vindo ao meu perfil
 
-### Eu me chamo Alex, gosto bastante da area da programação e a sua logica atualmente estudo front-end e Python
+### Olá! Eu me chamo Alex, sou estudante de programação e apaixonado por tecnologia.
 
 ##
 
